@@ -42,7 +42,7 @@ li{
 }
 
 .options{
-    padding: 6px 3px 6px 3px;
+    padding: 12px 3px 12px 3px;
     border-bottom: 0.5px solid #00000017;
 }
 
@@ -61,6 +61,7 @@ li{
     border-radius: 5px;
     font-size: 24px;
     padding: 4px 7px 4px 7px;
+   
 }
 
 .profile-btn{
