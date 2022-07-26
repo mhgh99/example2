@@ -26,6 +26,7 @@ li{
     justify-content: flex-end;
     position: fixed;
     width: 100%;
+    padding: 4px 0;
 }
  
 .bcak-angle{
@@ -61,7 +62,7 @@ li{
     border-radius: 5px;
     font-size: 24px;
     padding: 4px 7px 4px 7px;
-   
+    margin-left:10px;
 }
 
 .profile-btn{
@@ -83,6 +84,7 @@ li{
 .logo-img{
     width: 120px;
     height: auto;
+    margin-right: 10px;
 }
 
 
